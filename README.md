@@ -1,6 +1,7 @@
 PAM WatchID
 -----------
 A PAM plugin for authenticating using the new kLAPolicyDeviceOwnerAuthenticationWithBiometricsOrWatch API in macOS 10.15, written in Swift.
+Fork of a fork of a fork from code originally by [Reflejo](https://github.com/Reflejo), but updated to support M1s, as well as modern macOS versions (Big Sur+, tested up to Ventura Beta).
 
 ![](demo.gif)
 
